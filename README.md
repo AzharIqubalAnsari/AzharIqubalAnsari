@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AzharIqubalAnsari/count.svg" />
+</p>
+
 - 👋 Hi, I’m AzharIqubalAnsari
 - 👀 I’m interested in Web Development|Android Development|Virtual Gaming etc.
 - 🌱 I’m currently learning C/C++|JAVA|HTML
