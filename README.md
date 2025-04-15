@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AzharIqubalAnsari
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning C/C++|JAVA|HTMl.
+- 🌱 I’m currently learning C/C++|JAVA|HTMl|PHP|MySQL.
 - 📫 Contact me at azhar9507@gmail.com
 -   LinkedIn profile on https://www.linkedin.com/in/azhar-iqubal-ansari
 
